@@ -1,4 +1,4 @@
-# Iris-kNN
+# Iris k-NN
 Classification k-Nearest Neighbor (k-NN)
 
 **Iris Setosa**|**Iris Versicolor**|**Iris Virginica**|
@@ -16,7 +16,7 @@ Classification k-Nearest Neighbor (k-NN)
 **View: [wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)**
 
 
-### Results view [notebook](https://github.com/radensaleh/Iris-kNN/main.py).
+### Results view [main.py](https://github.com/radensaleh/Iris-kNN/blob/master/main.py).
 
 
 ## License
